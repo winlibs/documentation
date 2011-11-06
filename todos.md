@@ -11,7 +11,7 @@
   . .. other ..
 
 # structure bins
-<MTMarkdownOptions output='raw'>
+<pre>
 deps-<crtversion>-<architecture>
             ^
             |
@@ -19,7 +19,7 @@ deps-<crtversion>-<architecture>
             ^
             |
          app-path
-</MTMarkdownOptions>
+</pre>
 
 Example:
 
