@@ -13,7 +13,7 @@
 # structure bins
 <pre>
 <code>
-deps-<crtversion>-<architecture>
+deps-{crtversion}-{architecture}
             ^
             |
         using PATH
