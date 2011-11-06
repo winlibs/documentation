@@ -1,4 +1,4 @@
-*** TODOs ***
+# TODOs
 - create an organisation on github
 - create one module for the common scripts
   . setup script
@@ -10,7 +10,7 @@
   . zlib
   . .. other ..
 
-*** structure bins ***
+# structure bins
 
 deps-<crtversion>-<architecture>
             ^
@@ -30,7 +30,7 @@ c:\server-apps\couchdb-1.2-vc6-x86
 c:\server-apps\deps-vc6-x86
 
 
-*** structure devs ***
+# structure development tree
 
 See https://wiki.php.net/internals/windows/stepbystepbuild
 
