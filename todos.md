@@ -12,6 +12,7 @@
 
 # structure bins
 <pre>
+<code>
 deps-<crtversion>-<architecture>
             ^
             |
@@ -19,6 +20,7 @@ deps-<crtversion>-<architecture>
             ^
             |
          app-path
+</code>
 </pre>
 
 Example:
