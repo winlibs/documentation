@@ -25,12 +25,16 @@ deps-{crtversion}-{architecture}
 
 Example:
 
+<pre>
+<code>
 c:\server-apps\couchdb-1.2-vc9-x64
 c:\server-apps\deps-vc9-x64
 c:\server-apps\couchdb-1.2-vc9-x86
 c:\server-apps\deps-vc9-x86
 c:\server-apps\couchdb-1.2-vc6-x86
 c:\server-apps\deps-vc6-x86
+</code>
+</pre>
 
 
 # structure development tree
@@ -38,7 +42,8 @@ c:\server-apps\deps-vc6-x86
 See https://wiki.php.net/internals/windows/stepbystepbuild
 
 example:
-
+<pre>
+<code>
 c:\sdk\couchdb\
         |_ vc9
            |_ x86
@@ -53,3 +58,5 @@ c:\sdk\couchdb\
              |_ lib
              |_ include
              |_ couchdb-src
+</code>
+</pre>
